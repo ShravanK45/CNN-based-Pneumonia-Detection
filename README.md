@@ -247,7 +247,7 @@ The trained CNN achieved strong classification performance while maintaining goo
 <img src="images/confusion_matrix.png" width="700">
 <img src="images/roc_curve.png" width="700">
 <img src="images/model_architecture.png" width="700">
-<img src="images/Pneumonia_App.png" width="700">
+<img src="images/streamlit_home.png" width="700">
 ---
 
 # 🌐 Streamlit Deployment
