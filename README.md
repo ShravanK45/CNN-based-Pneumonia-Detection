@@ -189,7 +189,7 @@ Sigmoid Output
 | Loss Function     | Binary Crossentropy      |
 | Output Activation | Sigmoid                  |
 | Epochs            | Until Early Stopping     |
-| Batch Size        | (Update with your value) |
+| Batch Size        | 32                       |
 
 ---
 
@@ -242,26 +242,12 @@ The trained CNN achieved strong classification performance while maintaining goo
 
 # 📷 Results Visualization
 
-Include screenshots in the `images/` folder.
-
-Example:
-
-```text
-images/
-
-accuracy_curve.png
-
-loss_curve.png
-
-confusion_matrix.png
-
-roc_curve.png
-
-streamlit_home.png
-
-prediction_demo.png
-```
-
+<img src="images/accuracy_curve.png" width="700">
+<img src="images/loss_curve.png" width="700">
+<img src="images/confusion_matrix.png" width="700">
+<img src="images/roc_curve.png" width="700">
+<img src="images/model_architecture.png" width="700">
+<img src="images/Pneumonia_App.png" width="700">
 ---
 
 # 🌐 Streamlit Deployment
