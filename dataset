@@ -1,0 +1,19 @@
+# Dataset
+
+This project uses the **Chest X-Ray Images (Pneumonia)** dataset.
+
+Download the dataset from the official source:
+
+https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+After downloading, extract the dataset into the following structure:
+
+data/
+
+├── train/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+│
+└── test/
+    ├── NORMAL/
+    └── PNEUMONIA/
