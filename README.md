@@ -6,8 +6,19 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-success)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-red?style=for-the-badge)](https://cnn-based-pneumonia-detection-o7ckr4rxw7noz8bgxbsvaj.streamlit.app/)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+---
+## 🚀 Live Demo
+
+🌐 **Try the Application:** https://cnn-based-pneumonia-detection-o7ckr4rxw7noz8bgxbsvaj.streamlit.app/
+
+Upload a Chest X-Ray image and receive:
+
+- 🩺 Prediction (NORMAL / PNEUMONIA)
+- 📊 Confidence Score
 ---
 
 # 📌 Project Overview
