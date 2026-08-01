@@ -25,7 +25,7 @@ st.write(
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model(r"notebooks\best_pneumonia_model.keras")
+    return tf.keras.models.load_model("models/best_pneumonia_model.keras")
 
 model = load_model()
 
